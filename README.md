@@ -1,6 +1,8 @@
 # YMC-reunion
 Three font files that specified color in advance. Yellow, Magenta, Cyan. Revised version in OpenType format.
 
+[ダウンロードはこちらから](https://github.com/dainippon-type/YMC-reunion/releases)
+
 
 3色の文字を重ね、透過させることにより、可読性のある文字が表示されます。
 Illustratorなどの透明度設定「乗算」を使ったり
